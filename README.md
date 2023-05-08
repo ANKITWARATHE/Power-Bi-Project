@@ -4,7 +4,7 @@
 Sharing my latest project report utilizing Power BI for improving employee performance and retention through HR analytics dashboard 📊
 
 Objective:
-The purpose of this project is to help an organization to improve Employee performance and reduceattrition by creating dashboard.The dashboard provides valuable insights into employee data,which can be used to make data-driven decisions and improve employee satisfaction and retention.
+The purpose of this project is to help an organization to improve Employee performance and reduce attrition by creating dashboard.The dashboard provides valuable insights into employee data,which can be used to make data-driven decisions and improve employee satisfaction and retention.
 
 Data Source:
 The raw data for this project was obtained in the form of a CSV file with 38 columns and approximately 1.5k rows.
